@@ -9,6 +9,9 @@ This is one of three domains provided by the Oncology Institute that has repeate
 
 This data set includes 201 instances of one class and 85 instances of another class. The instances are described by 9 attributes, some of which are linear and some are nominal.
 
+The data set is public and is available at the link: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
+
+
 The project have as goal realize this acts:
 
 - Perform binarization of the class variable (0/1)
